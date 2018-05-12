@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5897'
     url: http://www.gutenberg.org/2009/agents/5897
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20496#Legends-of-the-Rhine
 gutenberg_bookshelf: Folklore
 gutenberg_issued: '2007-01-31'
 gutenberg_type: Text
